@@ -51,7 +51,7 @@ public class MainView extends VerticalLayout {
 
         // Theme variants give you predefined extra styles for components.
         // Example: Primary button has a more prominent look.
-        button.addThemeVariants(ButtonVariant.LUMO_PRIMARY);
+        button.addThemeVariants(ButtonVariant.ENTER);
 
         // You can specify keyboard shortcuts for buttons.
         // Example: Pressing enter in this view clicks the Button.
